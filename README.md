@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# jest-mock-fs
+# jest-mock-fs-starter
 
 Jest && mock-fs starter
 
