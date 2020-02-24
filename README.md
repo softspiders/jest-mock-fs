@@ -2,9 +2,7 @@
 
 # jest-mock-fs
 
-Jest mock-fs-starter
-
-Jest with mock-fs starter
+Jest && mock-fs starter
 
 UNDER DEVELOPMENT
 
