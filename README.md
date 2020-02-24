@@ -26,7 +26,7 @@ UNDER DEVELOPMENT
 
 ## Direct ancestors
 
-[jest](https://github.com/softspiders/jest)
+[jest-starter](https://github.com/softspiders/jest-starter)
 
 ---
 
