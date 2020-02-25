@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "jest": "latest"
+    "jest": "latest",
+    "mock-fs": "^4.10.4"
   },
   "scripts": {
     "test": "jest"
